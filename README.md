@@ -1,3 +1,3 @@
 # oaklikethetree.github.io
 
-test to get the site going
+A simple, static portal which outlines my offerings.
